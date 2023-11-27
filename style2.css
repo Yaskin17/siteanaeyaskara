@@ -1,0 +1,87 @@
+.Xavierre {
+    vertical-align: top;
+}
+
+#banner {
+    vertical-align: top;
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    background: #cccccc;
+}
+
+
+p {
+
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px
+}
+
+.em strong {
+    color: rgb(30, 30, 30);
+}
+
+#banner {
+    width: 100%;
+}
+
+form {
+    margin: 40px 0;
+}
+
+footer {
+    text-align: center;
+    background: url(bg.jpg);
+    padding: 40px;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 23px;
+    text-decoration: none;
+}
+
+.input-padrão {
+    display: block;
+    margin: 0 0 20px;
+    padding: 5px 5px;
+    width: 30%;
+}
+
+.checkbox {
+    margin: 20px 0;
+    font-size: 19px;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.selects {
+    margin: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+table {
+    margin: 20px 0 40px;
+}
