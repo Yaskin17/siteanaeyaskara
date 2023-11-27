@@ -1,0 +1,199 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.caixa {
+    position: relative;
+    width: 5;
+    margin: 0;
+
+}
+
+.caixa ul {
+    padding-right: 763px;
+}
+
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 23px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: rgb(75, 75, 75);
+    text-decoration: underline;
+}
+
+.sobrenos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 50px 30px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+}
+
+.sobrenos li:hover {
+    border-color: rgb(95, 95, 95);
+}
+
+.sobrenos li:hover h2 {
+    font-size: 40px;
+}
+
+.sobrenos li:active {
+    border-color: rgb(95, 95, 95);
+}
+
+.sobrenos {
+    margin: 2px;
+    padding: 50px 0;
+}
+
+.principal h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    background: url(bg.jpg);
+    padding: 40px;
+}
+
+.copyrigt-ight {
+
+    text-align: center;
+    background: url(bg.jpg);
+    padding: 40px;
+}
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+form {
+    margin: 40px 0;
+}
+
+form label,
+form p {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-padrão {
+    display: block;
+    margin: 0 0 20px;
+    padding: 5px 5px;
+    width: 30%;
+}
+
+.about-us {
+    text-align: center;
+    font-size: 1.5em;
+    clear: left;
+    color: #000000;
+    width: 640px;
+    padding: 20px 700px 20px 600px;
+    border: 2px solid #000000;
+
+
+}
+
+.about-us h2 {
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+
+}
+
+
+.team {
+    text-align: center;
+    font-size: 1.5em;
+    clear: left;
+    color: #000000;
+    width: 640px;
+    padding: 20px 700px 20px 600px;
+    border: 2px solid #000000;
+    background: linear-gradient(#fefefe, #888888);
+}
+
+.team h2 {
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+
+}
+
+
+footer {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.Equipe {
+    font-weight: bold
+}
+
+.Nos {
+    font-weight: bold
+}
+
+.titulo-principal {
+    text-align: center;
+    font-size: 2em;
+    clear: left;
+    color: #000000;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.mapa {
+    padding: 3em 0;
+    background: linear-gradient(#949191, #706b6b);
+}
+
+.mapa-conteudo {
+    width: 940px;
+    margin: 0 auto;
+
+}
+
